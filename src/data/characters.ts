@@ -60,7 +60,7 @@ export const characters: Character[] = [
     weaponType: 'Sword',
     faction: 'Endfield Industries',
     quote: "I'm ready.",
-    image: '/characters/endministrator-official.jpg',
+    image: '/characters/endministrator.jpg',
     weaponImage: '/characters/weapon-sword.png',
     gender: 'Selectable',
     stats: {
